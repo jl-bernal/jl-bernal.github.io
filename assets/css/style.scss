@@ -1,0 +1,33 @@
+---
+---
+
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #CCD6E5 !default;
+$header-bg-color: #1b2352;
+$header-bg-color-secondary: #1E4084;
+
+// Text
+$section-headings-color: #222629;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+@import "{{ site.theme }}";
+
+.button {
+  background-color: #B5BBDD;
+  border: none;
+  border-radius: 8px;
+  color: #4D4F5E;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
