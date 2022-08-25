@@ -18,6 +18,8 @@ An exhaustive compilation of my publications can be found in your favorite datab
 
 [InspireHEP](http://inspirehep.net/search?p=author%3AJ.L.Bernal.1%20AND%20collection%3Aciteable){: .button} &nbsp; &nbsp; [SAO/NASA ADS](http://ui.adsabs.harvard.edu/#/public-libraries/8kkXX30CT6epBHaQlgtZvA){: .button} &nbsp; &nbsp; [ArXiv](https://arxiv.org/find/astro-ph/1/au:+Bernal_J/0/1/0/all/0/1){: .button} 
 
+And my [GitHub page](https://github.com/jl-bernal) has repositories with all my public codes:
+
 # Contact information
 
 <script language="JavaScript">
