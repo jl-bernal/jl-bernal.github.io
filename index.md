@@ -10,7 +10,7 @@ Mainly, I work on the interface between theoretical and observational cosmology,
 
 You can find my CV here:
 
-[Complete CV](https://github.com/jl-bernal/jl-bernal.github.io/blob/main/assets/docs/CV2_JLBernal.pdf){: .button}  &nbsp; &nbsp;  [Short CV](https://github.com/jl-bernal/jl-bernal.github.io/blob/main/assets/docs/short_CV_JLBernal.pdf){: .button}
+[Complete CV]({{ site.url }}/assets/docs/CV2_JLBernal.pdf){: .button}  &nbsp; &nbsp;  [Short CV]({{ site.url }}/assets/docs/short_CV_JLBernal.pdf){: .button}
 
 # Publications
 
