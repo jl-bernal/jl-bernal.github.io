@@ -4,7 +4,7 @@ layout: default
 
 <img src="assets/imgs/jlb.jpg" style="width:300px;height:402px;float:left;margin:20px">
 
-I am a Davis Postdoctoral Fellow at Johns Hopkins University in Baltimore, US, working primarily with Prof. Marc Kamionkowski. Just before moving to Johns Hopkins, I earned my PhD title at the Institute of Cosmos Science in the University of Barcelona (ICC-UB), under supervision of Prof. Licia Verde.  
+I am a Davis Postdoctoral Fellow at the Department of Physics and Astronomy of Johns Hopkins University in Baltimore, US, working primarily with the group of Prof. Marc Kamionkowski. Just before moving to Johns Hopkins, I earned my PhD title at the Institute of Cosmos Sciences in the University of Barcelona (ICC-UB), under supervision of Prof. Licia Verde.  
 
 Mainly, I work on the interface between theoretical and observational cosmology, with special interest in dark matter and the phenomenology of models beyond &Lambda;CDM in cosmological observables. During the last years, my interests have been increasingly overlaping with extragalactic astrophysics, working on probes like line-intensity mapping that are sensitive both to cosmology and astrophysics. I also have dedicated much work and thought to tensions between cosmological observations and agnostic approaches to analyze their measurements.
 
