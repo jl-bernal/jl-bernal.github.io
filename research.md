@@ -14,7 +14,7 @@ We only have one Universe to probe, hence the experiments in cosmology are intri
 
 ![Picture]({{ site.url }}/assets/imgs/LIMEpochsCut.png)
 
-<center> Different epochs in the history of the Universe and the cosmological observables to directly probe them. (from Bernal & Kovetz, 2022) </center>
+<center> Different epochs in the history of the Universe and the cosmological observables to directly probe them. (from <a href="https://arxiv.org/abs/2206.15377">Bernal & Kovetz, 2022</a>) </center>
 
 <br/>
 
@@ -54,12 +54,12 @@ Finally, I am currently working with Gabriela Sato-Polito and Nickolas Kokron in
 
 ![Picture]({{ site.url }}/assets/imgs/CO_CII_maps.png)
 
-<center> Three-dimensional mock CO and CII intensity mapps in observed frequency bands such as both correspond to the same volume at redshifts between 2.5 and 3.5, applying COMAP-like and FYST-like resolutions, respectively. (from <a href="">Sato-Polito, Kokron & Bernal, 2022</a>)</center>
+<center> Three-dimensional mock CO and CII intensity mapps in observed frequency bands such as both correspond to the same volume at redshifts between 2.5 and 3.5, applying COMAP-like and FYST-like resolutions, respectively. (from <a href="https://arxiv.org/abs/2212.08056">Sato-Polito, Kokron & Bernal, 2022</a>)</center>
 
 <br/>
 
 **Related talks**: 
-
+- [Line-Intensity mapping: challenges and opportunities]({{ site.url }}/assets/docs/MPEseminar.pdf) - Max Planck Institute for Extraterrestrial Physics (MPE) - 2022.
 - [Exploring the Universe with Line-Intensity Mapping]({{ site.url }}/assets/docs/ICC.pdf) - Institute of Cosmos Sciences, University of Barcelona (ICC-UB) - 2022.
 - [The Cosmic Expansion History from Line-Intensity Mapping]({{ site.url }}/assets/docs/JLB_CosmicContro.pdf) - Cosmic Controversies conference, Kavli Institute for Cosmological Physics, University of Chicago (KICP-UChicago) - 2019
 
