@@ -8,9 +8,9 @@ I'm Jose, and work as a theoretical physicist interested in cosmology and astrop
 
 Mainly, I work on the interface between theoretical and observational cosmology, with special interest in dark matter and the phenomenology of models beyond &Lambda;CDM in cosmological observables. During the last years, my interests have been increasingly overlaping with extragalactic astrophysics, working on probes like line-intensity mapping that are sensitive both to cosmology and astrophysics. I also have dedicated much work and thought to tensions between cosmological observations and agnostic approaches to analyze their measurements.
 
-The cosmology group at IFCA is always looking for talented postdocs, PhD candidates and Masters students. If you are interested, please contact me! There are regular openings and plenty of opportunities for these positions. 
+- The cosmology group at IFCA is always looking for talented postdocs, PhD candidates and Masters students. If you are interested, please contact me! There are regular openings and plenty of opportunities for these positions. 
 
-You can find my CV here:
+- You can find my CV here:
 
 [Complete CV]({{ site.url }}/assets/docs/CV2_JLBernal.pdf){: .button}  &nbsp; &nbsp;  [Short CV]({{ site.url }}/assets/docs/short_CV_JLBernal.pdf){: .button}
 
