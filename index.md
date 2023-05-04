@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /index/
 ---
 
 <img src="assets/imgs/jlb.jpg" style="width:300px;height:402px;float:left;margin:20px">
