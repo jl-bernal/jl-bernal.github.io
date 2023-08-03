@@ -5,7 +5,9 @@ permalink: /outreach/
 
 I am always happy to contribute to and get involved in outreach activities. Feel free to contact me if you are organizing any outreach activity and are interested in my participation. 
 
-Especially during my time in Barcelona, I participated in many of them. I list some of them below: 
+Below you can find a list of my outreach activities:
+
+- [**The Universe: a window to fundamental physics**](https://docs.google.com/presentation/d/1tXb-7klCfUR7luOU-LtG_hMNew_QPZbCjxXe80pG4tQ/present?usp=sharing) Public outreach talk at the Pedro Pascual Science Center of Benasque, covering cosmology and the tension between the direct measurements of the Hubble constant assuming the standard cosmological model. (slides in Spanish)
 
 - [**At what speed does the Universe expand?**]({{ site.url }}/assets/docs/JLB_AAS_red.pdf) Talk for amateur astronomers discussing the tension between the direct measurements of the Hubble constant in the local Universe and the values inferred from early-Universe measurements assuming the standard cosmological model. (slides in Spanish)
 
