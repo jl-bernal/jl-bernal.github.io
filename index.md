@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<p style="float: left; width: 50%; margin:20px"><img src="assets/imgs/jlb.jpg" style="width:400px;height:402px;float:left;margin:20px"> &nbsp; &nbsp; Giving a talk in LIM2024, UIUC <br> &nbsp; &nbsp; Credit: Joaquin Vieira, LIM2024 </p>
+<p style="float: left; width: 50%; margin:20px"><img src="assets/imgs/JLB.jpg" style="width:400px;height:402px;float:left;margin:20px"> &nbsp; &nbsp; Giving a talk in LIM2024, UIUC <br> &nbsp; &nbsp; Credit: Joaquin Vieira, LIM2024 </p>
 
 I'm Jose, and work as a theoretical physicist interested in cosmology and astrophysics. I have a position as a `investigador científico' (tenured senior  position) in the [Consejo Superior de Investigaciones Científicas (CSIC)](https://www.csic.es/en), working at the [Institute of Physics of Cantabria](https://ifca.unican.es/en-us) (IFCA) in Santander, Spain. Before moving back to Spain, I earned my PhD title at the [Institute of Cosmos Sciences](https://icc.ub.edu/) in the University of Barcelona (ICC-UB), Spain, under the supervision of [Prof. Licia Verde](https://liciaverde.icc.ub.edu/), worked as a Davis Postdoctoral Fellow at the [Department of Physics and Astronomy of Johns Hopkins University](https://physics-astronomy.jhu.edu/) in Baltimore, US, working primarily with the group of [Prof. Marc Kamionkowski](https://sites.krieger.jhu.edu/kamionkowski/), and spent few months as a postdoctoral research fellow at the [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de/) in Garching, Germany, working within the physical cosmology group led by [Prof. Eiichiro Komatsu](https://wwwmpa.mpa-garching.mpg.de/~komatsu/).
 
